@@ -1,0 +1,8 @@
+.radix-themes {
+  /* --default-font-family: var(--font-rochester); */
+  --default-font-family: var(--font-quicksand);
+}
+
+h1 {
+  font-family: var(--font-rochester) !important;
+}

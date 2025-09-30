@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+h1, h2 {
+  font-family: var(--font-playfair);
+  font-weight: lighter;
+  padding: 2rem 0rem 1rem 0rem;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+body {
+  font-family: var(--font-inter);
+  width: 100%;
+  background-color: #0a0a0a;
+  color: #ffff;
+}
